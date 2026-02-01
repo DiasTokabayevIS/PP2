@@ -1,0 +1,15 @@
+a = 56
+b = "broxo"
+c = 32.5
+d = 3j
+e = True
+f = ["ff", 22, "44"]
+g = {"fff": 22, "3556r": 64}
+h = ("kaf", 535, 853)
+i = range(g)
+k = {535, "fasfa", "ffsf"}
+l = frozenset({"fdfd", "ffsfs", 2525})
+m = b"fifiig"
+n = bytearray	
+o = memoryview(bytes(5))	
+p = None
